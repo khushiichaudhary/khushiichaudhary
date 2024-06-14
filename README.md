@@ -1,3 +1,4 @@
+![logo](https://github.com/khushiichaudhary/khushiichaudhary/blob/main/BANNER%20(1).png)
 <h1 align="center">Hi 👋, I'm Khushi Chaudhary</h1>
 <h3 align="center">Innovative Software Engineer & Full-Stack Web Developer Crafting Seamless Digital Experiences</h3>
 
